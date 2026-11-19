@@ -1,10 +1,10 @@
-# Infra Atlas
+# Research-Atlas
 
 An English catalogue of 1,133 systems-research papers, with conference navigation and eight parallel facets: Workload, Technique, Bottleneck, Deployment, Objective, Stage, Architecture and Resource.
 
 ## Browse
 
-Live catalogue: [Infra Atlas](https://dylanding54.github.io/infra-atlas/).
+Live catalogue: [Research-Atlas](https://dylanding54.github.io/Research-Atlas/).
 
 Open `index.html` directly or serve this directory as a static website. All classification data is embedded, so browsing needs no backend. Publication links open the original source. Six items without verified publication URLs use a clearly labeled title search. Full-text PDFs are not included.
 
